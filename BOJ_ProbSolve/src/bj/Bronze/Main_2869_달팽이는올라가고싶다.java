@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
  * @mem 11520
  * @time 76
  * @caution 
- * 
+ * int형 나누기에서 나오는 손실 주의
  */
 
 public class Main_2869_달팽이는올라가고싶다 {
